@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: lightskyblue;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 150px;
+    margin-right: 180px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.para
+{
+    float: left;
+    
+}
+.img
+{
+   float: left;
+   
+}
+.mee{
+    border: 2px solid #970266ce;
+    background-color: #970266ce;
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    color: black;
+    font-size: 20px;
+}
+
+.list1
+{
+    text-align: left;
+}
+.list2
+{
+    text-align: left;
+}
+
+
